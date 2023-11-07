@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "algorithm": "c",
+        "player_list.h": "c"
+    }
+}
